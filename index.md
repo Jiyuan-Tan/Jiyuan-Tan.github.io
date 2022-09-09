@@ -7,14 +7,8 @@ image:
 feature: flowership.png
 ---
 
-I am a research scientist at <a href="https://research.google.com" target="_blank">Google Research</a>.
+I am an undergraduate student in Department of Mathematics, Fudan University.
 
-<br />
-Previously, I worked at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">ETHZ</a>
-and <a href="http://www.disneyresearch.com/research-labs/disney-research-zurich/" target="_blank">Disney Research</a>,
-and I collaborated with <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">Prof. J. Malik</a>'s vision group 
-and with the startup <a href="https://gestoos.com" target="_blank">Fezoo</a>.
+My research interest lies in the foundation of deep learning, optimization in machine learning and reinforce learning.
 
-<br />
-I am a mathematician, engineer, and PhD in computer vision by <a href="http://www.upc.edu" target="_blank">UPC Barcelonatech</a>.
-
+I was fortunate to intern in the group of Prof. [Yinyu Ye](https://web.stanford.edu/~yyye/), where I develop a derivative-free solver for general constrained nonlinear optimization. Prior to this, I study the application of RL in Zero-sum game with Prof. [Zhaoran Wang](https://zhaoranwang.github.io/) and [Zhuoran Yang](https://www.princeton.edu/~zy6/).
