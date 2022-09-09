@@ -4,7 +4,7 @@ title: Me in a Nutshell
 description: "Jiyuan Tan's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: flowership.png
+feature: flowership.png
 ---
 
 I am a research scientist at <a href="https://research.google.com" target="_blank">Google Research</a>.
