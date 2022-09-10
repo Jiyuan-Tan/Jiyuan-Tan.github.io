@@ -4,7 +4,7 @@ title: Me in a Nutshell
 description: "Jiyuan Tan's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: trees.jpg
+  feature: flowership.png
 ---
 
 I am an undergraduate student in Department of Mathematics, Fudan University.

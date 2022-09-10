@@ -26,7 +26,8 @@ bing_verify:
 links:
   - title: Publications
     url: /publications/
-
+  - title: CV
+    url: /CV/
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 Timezone: Asia/Shanghai
 future:      true
