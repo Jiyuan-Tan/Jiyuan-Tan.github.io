@@ -4,10 +4,11 @@ title: Me in a Nutshell
 description: "Jiyuan Tan's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-feature: trees.jpg
+  feature: trees.jpg
 ---
 
 I am an undergraduate student in Department of Mathematics, Fudan University.
+
 <br />
 My research interest lies in the foundation of deep learning, optimization in machine learning and reinforce learning.
 
