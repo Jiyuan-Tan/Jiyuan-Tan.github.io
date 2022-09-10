@@ -26,7 +26,7 @@ bing_verify:
 links:
   - title: Publications
     url: /publications/
-  - title: CV
+  - title: Curriculum
     url: /CV/
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 Timezone: Asia/Shanghai
