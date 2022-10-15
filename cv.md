@@ -19,7 +19,6 @@ _Research Intern, supervised by [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/
 - Lead a group of three to develop a derivative-free solver1 for nonlinear constrained optimization in ANSI C.
 - Use the technique of implicit filtering to increase robustness of algorithm under noises.
 - Combine coordinate search to increase efficiency.
-- Better performance in solving the Pharmacodynamics problems.
 
 ### Stochastic Proximal Point Algorithm with Variance Reduction
 <p align = "right"> 1.2022 – 5.2022</p>
@@ -36,4 +35,4 @@ _Research Intern, supervised by [Prof. Zhuoran Yang](https://zhaoranwang.github.
 - Propose the notion of Relative Uncertainty to measure the quality of dataset for offline two-player zero-sum game.
 - Analyze the convergence rate of the proposed algorithm PMVI.
 - Give a lower bound of the convergence rate by constructing a special game.
-- Give a counterexample to illustrate the fundamental difference between Markov Decision Process and Markov Game.
+- Give a counterexample to illustrate the difference between Markov Decision Process and Markov Game.
