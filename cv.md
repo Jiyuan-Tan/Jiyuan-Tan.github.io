@@ -20,13 +20,13 @@ _Research Intern, supervised by [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/
 - Use the technique of implicit filtering to increase robustness of algorithm under noises.
 - Combine coordinate search to increase efficiency. -->
 
-### Stochastic Proximal Point Algorithm with Variance Reduction
-<p align = "right"> 1.2022 – 5.2022</p>
+### Zero-Order Optimization
+<p align = "right"> 7.2022 -- 7.2023 </p>
 
-_Research Intern, supervised by [Prof. Qi Deng](https://sime.sufe.edu.cn/5b/8d/c10575a154509/page.htm)_
-- Propose a stochastic proximal point algorithm  with variance reduction for $\ell_2 $ regularized problems, which contains the SDCA algorithm as a special case.
-- Analyze the convergence rate of the proposed algorithm for both convex functions and weakly convex functions.
-- Discover that in some situations, proximal algorithms with negative step size have a better convergence rate.
+_Research Intern, supervised by [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/)_
+- Lead a group of three to develop a derivative-free solver for nonlinear constrained optimization in ANSI C. Code available [here](https://github.com/COPT-Public/SOLNP)
+- Use the technique of implicit filtering to increase robustness of algorithm under noises.
+- Combine coordinate search to increase efficiency. 
 
 ### Equilibrium Learning in Offline Markov Game
 <p align = "right"> 1.2021 – 6.2021</p>
