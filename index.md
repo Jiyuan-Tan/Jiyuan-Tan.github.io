@@ -7,10 +7,10 @@ image:
   feature: flowertank.png
 ---
 
-I am an undergraduate student in Department of Mathematics, Fudan University.
+I am an PhD student in Management Science and Engineering, Stanford University.
 
 <br />
-My research interest lies in data-driven decision making and theoretical analysis of stochastic algorithms.
+My research interest lies in causal inference, stochastic optimization and reinforcement learning.
 
 <br />
-I was fortunate to intern in the group of Prof. <a href = "https://web.stanford.edu/~yyye/" >Yinyu Ye </a>. Prior to this, I study the Zero-sum Markov game with Prof. <a href = "https://zhaoranwang.github.io/" >Zhaoran Wang </a> and <a href = "https://www.princeton.edu/~zy6/" >Zhuoran Yang </a>.
+I was fortunate to work with Prof. <a href = "https://web.stanford.edu/~yyye/" >Yinyu Ye </a> to develop a derivative-free solver for general nonlinear optimization problems. Our code is available <a href = "https://github.com/COPT-Public/SOLNP" >here </a>. Prior to this, I study the Zero-sum Markov game with Prof. <a href = "https://zhaoranwang.github.io/" >Zhaoran Wang </a> and <a href = "https://www.princeton.edu/~zy6/" >Zhuoran Yang </a>.
