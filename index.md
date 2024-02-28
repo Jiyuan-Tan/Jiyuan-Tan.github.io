@@ -7,7 +7,7 @@ image:
   feature: flowertank.png
 ---
 
-I am an PhD student in Management Science and Engineering, Stanford University.
+I am a first-year PhD student in Management Science and Engineering, Stanford University.
 
 <br />
 My research interest lies in causal inference, stochastic optimization and reinforcement learning.
