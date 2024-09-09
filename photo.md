@@ -2,7 +2,7 @@
 layout: page
 permalink: /photos/
 title: My Photos
-tags: [about]
+tags: [photo]
 modified: 12-9-2020
 comments: false
 image:
