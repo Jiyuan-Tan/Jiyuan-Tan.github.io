@@ -2,7 +2,7 @@
 layout: home2
 title: Me in a Nutshell
 description: "Jiyuan Tan's website"
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [Jekyll, theme, responsive, blog, template, photo]
 image:
   feature: flowertank.png
 ---
